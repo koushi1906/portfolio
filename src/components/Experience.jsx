@@ -16,6 +16,7 @@ import spring from "../assets/skills/spring.png";
 import pandas from "../assets/skills/pandas.png";
 import sql from "../assets/skills/sql.png";
 import github from "../assets/skills/github.png";
+import python from "../assets/skills/python.png";
 
 
 const Experience = () => {
@@ -37,6 +38,7 @@ const Experience = () => {
     { id: 15, src: pandas, title: "Pandas", style: "shadow-sky-900" },
     { id: 16, src: sql, title: "SQL", style: "shadow-sky-400" },
     { id: 17, src: github, title: "Github", style: "shadow-gray-200" },
+    { id: 17, src: python, title: "Python", style: "shadow-blue-400" },
     
   ];
 
