@@ -38,7 +38,7 @@ const Experience = () => {
     { id: 15, src: pandas, title: "Pandas", style: "shadow-sky-900" },
     { id: 16, src: sql, title: "SQL", style: "shadow-sky-400" },
     { id: 17, src: github, title: "Github", style: "shadow-gray-200" },
-    { id: 17, src: python, title: "Python", style: "shadow-blue-400" },
+    { id: 18, src: python, title: "Python", style: "shadow-blue-400" },
     
   ];
 
